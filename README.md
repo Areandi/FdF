@@ -15,7 +15,7 @@ Then use the ```fdf``` file with map file:
 ./fdf maps/...
 ```
 # Examples
-![alt text](https://raw.githubusercontent.com/Areandi/FdF/master/readme_scenes/1.png)
-![alt text](https://raw.githubusercontent.com/Areandi/FdF/master/readme_scenes/2.png)
-![alt text](https://raw.githubusercontent.com/Areandi/FdF/master/readme_scenes/3.png)
-![alt text](https://raw.githubusercontent.com/Areandi/FdF/master/readme_scenes/4.png)
+![alt text](https://raw.githubusercontent.com/Areandy/FdF/master/readme_scenes/1.png)
+![alt text](https://raw.githubusercontent.com/Areandy/FdF/master/readme_scenes/2.png)
+![alt text](https://raw.githubusercontent.com/Areandy/FdF/master/readme_scenes/3.png)
+![alt text](https://raw.githubusercontent.com/Areandy/FdF/master/readme_scenes/4.png)
